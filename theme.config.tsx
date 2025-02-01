@@ -6,11 +6,13 @@ import { FaTelegramPlane, FaTwitter } from 'react-icons/fa';
 const config: DocsThemeConfig = {
   logo: <span>OpenXAI Docs</span>,
   docsRepositoryBase: 'https://github.com/johnforfar/openxai-docs',
-  useNextSeoProps() {
-    return {
-      titleTemplate: '%s – OpenXAI Docs'
-    }
-  },
+  head: (
+    <>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <meta property="og:title" content="OpenXAI Docs" />
+      <meta property="og:description" content="OpenXAI Documentation" />
+    </>
+  ),
   sidebar: {
     //defaultMenuCollapseLevel: 1,
     toggleButton: true
