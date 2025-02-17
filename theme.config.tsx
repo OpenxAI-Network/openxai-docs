@@ -4,13 +4,13 @@ import { DocsThemeConfig } from 'nextra-theme-docs'
 import { FaTelegramPlane, FaTwitter } from 'react-icons/fa';
 
 const config: DocsThemeConfig = {
-  logo: <span>OpenXAI Docs</span>,
+  logo: <span>OpenxAI Docs</span>,
   docsRepositoryBase: 'https://github.com/johnforfar/openxai-docs',
   head: (
     <>
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      <meta property="og:title" content="OpenXAI Docs" />
-      <meta property="og:description" content="OpenXAI Documentation" />
+      <meta property="og:title" content="OpenxAI Docs" />
+      <meta property="og:description" content="OpenxAI Documentation" />
     </>
   ),
   sidebar: {
@@ -48,7 +48,7 @@ const config: DocsThemeConfig = {
     )
   },
   footer: {
-    content: 'OpenXAI Docs'
+    content: 'OpenxAI Docs'
   },
   darkMode: true,
   nextThemes: {

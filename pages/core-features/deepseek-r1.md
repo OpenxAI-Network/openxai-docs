@@ -1,3 +1,0 @@
-# DeepSeek R1
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.

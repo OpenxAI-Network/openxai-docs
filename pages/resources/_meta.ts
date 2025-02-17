@@ -2,8 +2,6 @@
 export default {
   "community": "Community",
   "contribution-guide": "Contribution Guide",
-  "code-standards": "Code Standards",
-  "bug-reports": "Bug Reports",
   "feature-requests": "Feature Requests",
   "forums-discord": "Forums & Discord",
   "documentation": "Documentation",
@@ -14,7 +12,6 @@ export default {
   "enterprise-usage": "Enterprise Usage",
   "technical-specs": "Technical Specs",
   "security-guide": "Security Guide",
-  "cli-reference": "CLI Reference",
   "environment-setup": "Environment Setup",
   "error-handling": "Error Handling"
 } as const;
