@@ -1,13 +1,12 @@
 // auto-generated _meta.ts for web3-features
 export default {
   "openxai-token": "OPENX Token",
+  "token-utility": "Token Utility",
   "staking-system": "Staking System",
   "rewards": "Rewards",
   "smart-contracts": "Smart Contracts",
-  "governance": "Governance",
+  "governance": "Governance & Voting",
   "proposal-system": "Proposal System",
-  "voting": "Voting",
   "treasury": "Treasury",
-  "community-guidelines": "Community Guidelines",
-  "grants-program": "Grants Program"
+  "community-guidelines": "Web3 Community Guidelines"
 } as const;
