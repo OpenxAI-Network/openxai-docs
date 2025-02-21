@@ -13,7 +13,6 @@ Our documentation covers everything from how to get started and detailed core fe
 ### Getting Started
 - [Quick Start Guide](/getting-started/quick-start-guide)
 - [Platform Overview](/getting-started/platform-overview)
-- [Architecture](/getting-started/architecture)
 
 ### AI Infrastructure
 - [Xnode](/infrastructure/xnode)
@@ -22,21 +21,22 @@ Our documentation covers everything from how to get started and detailed core fe
 - [Model Management (Ollama Framework)](/infrastructure/model-management)
 - [Security](/infrastructure/security)
 - [GPU Marketplace](/infrastructure/gpu-marketplace)
-- [Resource Management](/infrastructure/resource-management)
-- [Payment Systems](/infrastructure/payment-systems)
-- [Performance Metrics](/infrastructure/performance-metrics)
-- [Setup Guide](/infrastructure/setup-guide)
 
-### Web3 Features
-- [OPENX Token](/web3-features/openxai-token)
-- [Staking System](/web3-features/staking-system)
-- [Smart Contracts](/web3-features/smart-contracts)
-- [Treasury](/web3-features/treasury)
-- [Proposal System](/web3-features/proposal-system)
+### Web3 - The OPENX Token & Governance
+- [OPENX Token](/web3/openxai-token)
+- [Token Utility](/web3/token-utility)
+- [Staking System](/web3/staking-system)
+- [Smart Contracts](/web3/smart-contracts)
+- [Treasury](/web3/treasury)
+- [Proposal System](/web3/proposal-system)
+- [Rewards](/web3/rewards)
+- [Community Guidelines](/web3/community-guidelines)
 
 ### Resources
-- [Distributed Training](/resources/distributed-training)
-- [Edge Computing](/resources/edge-computing)
+- [Discussion Forums](/resources/discussion-forums)
+- [Community](/resources/community)
+- [Contribution Guide](/resources/contribution-guide)
+- [Feature Requests](/resources/feature-requests)
+- [OpenxAI Roadmap](/resources/roadmap)
 
-Explore the pages to learn more about the tools and strategies that drive our AI-first ecosystem!
-
+Explore the pages to learn more about the tools and strategies that drive our open AI-first ecosystem!

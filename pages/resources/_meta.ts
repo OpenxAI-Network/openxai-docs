@@ -4,5 +4,5 @@ export default {
   "contribution-guide": "Contribution Guide",
   "feature-requests": "Feature Requests",
   "discussion-forums": "Discussion Forums",
-  "roadmap": "OpenxAU Roadmap"
+  "roadmap": "OpenxAI Roadmap"
 } as const;
