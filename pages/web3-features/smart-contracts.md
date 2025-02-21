@@ -1,3 +1,3 @@
 # Smart Contracts
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Deploying to Ethereum Mainnet soon!
