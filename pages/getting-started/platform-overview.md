@@ -27,7 +27,7 @@ OpenxAI provides a focused environment that supports:
 
 ## Learn More
 
-For an in-depth look at the technical details powering OpenxAI, visit our [Architecture](/getting-started/architecture.md) page.
+For an in-depth look at the technical details powering OpenxAI, visit our [Architecture](/infrastructure/architecture.md) page.
 
 ## Summary
 

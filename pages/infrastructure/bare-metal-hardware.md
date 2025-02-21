@@ -13,9 +13,9 @@ OpenxAI's infrastructure includes a unique "Sky-Scanner for Bare Metal Providers
 - **Real-Time Monitoring:**  
   The sky-scanner framework delivers real-time updates, ensuring that the information you rely on is always current for optimal deployment decisions.
 
-## Seamless Deployment via OpenXAI Studio
+## Seamless Deployment via OpenxAI Studio
 
-Deploy your AI models effortlessly using OpenXAI Studio. This intuitive interface integrates with our sky-scanner to provision the ideal bare metal server with just a few clicks, delivering unmatched performance and scalability.
+Deploy your AI models effortlessly using OpenxAI Studio. This intuitive interface integrates with our sky-scanner to provision the ideal bare metal server with just a few clicks, delivering unmatched performance and scalability.
 
 Experience streamlined access to high-performance hardware through our Sky-Scanner, and elevate your AI solution deployment with confidence.
 

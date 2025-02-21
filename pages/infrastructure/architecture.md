@@ -1,8 +1,8 @@
 # Architecture
 
-OpenxAI is built on a robust, scalable architecture designed to meet the demanding needs of modern AI workloads. Two core components form the backbone of our system: the modular **xnode** framework and the purpose-built **xnodeOS**.
+OpenxAI is built on a robust, scalable architecture designed to meet the demanding needs of modern AI workloads. Two core components form the backbone of our system: the modular **Xnode** framework and the purpose-built **XnodeOS**.
 
-## The xnode Framework
+## The Xnode Framework
 
 - **Modular Microservices:**  
   Each xnode functions as an independent microservice, responsible for specific tasks—such as data ingestion, model processing, and inference. This separation of concerns allows for targeted updates, easier troubleshooting, and incremental scaling.
