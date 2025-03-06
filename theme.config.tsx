@@ -1,7 +1,8 @@
 // theme.config.tsx
 import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
-import { FaTelegramPlane, FaTwitter } from 'react-icons/fa';
+import { FaTelegramPlane } from 'react-icons/fa';
+import { FaXTwitter } from 'react-icons/fa6';
 
 const config: DocsThemeConfig = {
   logo: <span>OpenxAI Docs</span>,
@@ -21,7 +22,19 @@ const config: DocsThemeConfig = {
     extraContent: (
       <>
         <a 
-          href="#" 
+          href="https://x.com/OpenxAINetwork" 
+          target="_blank" 
+          rel="noopener noreferrer"
+          style={{ 
+            display: 'inline-block',
+            marginRight: '16px',
+            verticalAlign: 'middle'
+          }}
+        >
+          <FaXTwitter size={24} />
+        </a>
+        <a 
+          href="https://t.me/OpenxAINetwork" 
           target="_blank" 
           rel="noopener noreferrer"
           style={{ 
@@ -31,18 +44,6 @@ const config: DocsThemeConfig = {
           }}
         >
           <FaTelegramPlane size={24} />
-        </a>
-        <a 
-          href="#" 
-          target="_blank" 
-          rel="noopener noreferrer"
-          style={{ 
-            display: 'inline-block',
-            marginRight: '16px',
-            verticalAlign: 'middle'
-          }}
-        >
-          <FaTwitter size={24} />
         </a>
       </>
     )

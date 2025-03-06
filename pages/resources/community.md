@@ -11,7 +11,7 @@ Join our vibrant community of AI enthusiasts, developers, and researchers. Conne
 - Join our [Telegram community](https://t.me/OpenxAINetwork) for real-time discussions
 
 ### 🎮 Discord
-- Connect with developers on [Discord](https://discord.gg/RkHSx44T)
+- Connect with developers on [Discord](https://discord.gg/pBw389cbtq)
 
 ### 💻 GitHub
 - Contribute to our open-source projects on [GitHub](https://github.com/openxai-network)
