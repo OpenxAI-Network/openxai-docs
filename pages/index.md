@@ -16,6 +16,7 @@ Our documentation covers everything from how to get started and detailed core fe
 
 ### AI Infrastructure
 - [Xnode](/infrastructure/xnode)
+- [Xnode App Development Guide](/infrastructure/xnode)
 - [Architecture](/infrastructure/architecture)
 - [Bare Metal Hardware](/infrastructure/bare-metal-hardware)
 - [Model Management (Ollama Framework)](/infrastructure/model-management)
