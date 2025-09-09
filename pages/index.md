@@ -11,10 +11,12 @@ Our documentation covers everything from how to get started and detailed core fe
 ## Table of Contents
 
 ### Getting Started
+
 - [Quick Start Guide](/getting-started/quick-start-guide)
 - [Platform Overview](/getting-started/platform-overview)
 
 ### AI Infrastructure
+
 - [Xnode](/infrastructure/xnode)
 - [Xnode App Development Guide](/infrastructure/xnode)
 - [Architecture](/infrastructure/architecture)
@@ -24,6 +26,7 @@ Our documentation covers everything from how to get started and detailed core fe
 - [GPU Marketplace](/infrastructure/gpu-marketplace)
 
 ### Web3 - The OPENX Token & Governance
+
 - [OPENX Token](/web3/openxai-token)
 - [Token Utility](/web3/token-utility)
 - [Staking System](/web3/staking-system)
@@ -34,10 +37,11 @@ Our documentation covers everything from how to get started and detailed core fe
 - [Community Guidelines](/web3/community-guidelines)
 
 ### Resources
+
 - [Discussion Forums](/resources/discussion-forums)
 - [Community](/resources/community)
 - [Contribution Guide](/resources/contribution-guide)
 - [Feature Requests](/resources/feature-requests)
-- [OpenxAI Roadmap](/resources/roadmap)
+- [OpenxAI Roadmap](https://changelog.openxai.org/planned)
 
 Explore the pages to learn more about the tools and strategies that drive our open AI-first ecosystem!
