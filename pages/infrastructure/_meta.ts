@@ -6,5 +6,6 @@ export default {
   "bare-metal-hardware": "Bare Metal Hardware",
   "model-management": "Model Management",
   "security": "Security",
-  "gpu-marketplace": "GPU Marketplace"
+  "gpu-marketplace": "GPU Marketplace",
+  "monetization-and-tokenization": "Monetization & Tokenization"
 } as const;

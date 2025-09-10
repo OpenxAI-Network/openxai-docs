@@ -24,6 +24,8 @@ Our documentation covers everything from how to get started and detailed core fe
 - [Model Management (Ollama Framework)](/infrastructure/model-management)
 - [Security](/infrastructure/security)
 - [GPU Marketplace](/infrastructure/gpu-marketplace)
+- [Monetization & Tokenization](/infrastructure/monetization-and-tokenization)
+
 
 ### Web3 - The OPENX Token & Governance
 
