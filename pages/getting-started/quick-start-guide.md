@@ -4,9 +4,9 @@ We have built simple to use no-code solution for deploying your AI models on bar
 
 ## OpenxAI Studio
 
-OpenxAI Studio is a simple to use, drag-and-drop interface that allows you to deploy your models on bare metal servers with a few clicks.
+OpenxAI Studio is a drag-and-drop interface that allows you to deploy your models on bare metal servers with just a few clicks. The system supports a broad range of CPUs and GPUs, providing flexibility for diverse AI workloads, including large-scale open-source models such as LLaMA 2 and Mixtral. Backend optimizations ensure fast and stable deployments.
 
-To get started you can visit [OpenxAI Studio](https://studio.openxai.com) and login with your Web3 wallet.
+To get started you can visit [OpenxAI Studio](https://studio.openxai.org/) and login with your Web3 wallet.
 
 ![OpenxAI Studio](/images/openxai-studio-home.jpg)
 
@@ -14,15 +14,19 @@ We have also setup a demo project for you where no web3 wallet is neededto get s
 
 ## Select your model
 
+Choose from supported models in the OpenxAI App Store. The platform can recommend suitable models based on your needs.
+
 ![Select your model](/images/openxai-studio-models.jpg)
 
 ## Select your bare metal machine
+
+Pick a machine based on CPU, GPU, RAM, and storage. If your model requires a specialized GPU, click on the GPU options to select from the available GPUs. Supported operating systems are listed for each machine.
 
 ![Select your bare metal machine](/images/openxai-studio-model-config.jpg)
 
 ## Deploy your model
 
-Hit the deploy button and your model will be deployed onto a bare metal server. This process can take a few minutes.
+Hit the deploy button and your model will be deployed onto a bare metal server. This process can take a few minutes.Deployment is fast and reliable, with hardware automatically selected for optimal performance.
 
 ## Interact with your model
 

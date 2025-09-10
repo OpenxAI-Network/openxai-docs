@@ -7,15 +7,17 @@ OpenxAI's infrastructure includes a unique "Sky-Scanner for Bare Metal Providers
 - **Global Aggregation:**  
   Our platform scans data centers and service providers across the globe, constantly updating a comprehensive database of available bare metal servers.
 
-- **Optimized Selection:**  
-  By analyzing performance metrics, pricing, and geographic factors, we help you securely select the most suitable hardware for your deployments.
+- **Intelligent Hardware Selection:**  
+  By analyzing real-time performance metrics, pricing, geographic location, and energy efficiency, the Sky-Scanner helps you securely select the most suitable hardware for your AI deployments. This ensures not only high performance but also cost-effectiveness and environmental responsibility.
 
 - **Real-Time Monitoring:**  
   The sky-scanner framework delivers real-time updates, ensuring that the information you rely on is always current for optimal deployment decisions.
 
 ## Seamless Deployment via OpenxAI Studio
 
-Deploy your AI models effortlessly using OpenxAI Studio. This intuitive interface integrates with our sky-scanner to provision the ideal bare metal server with just a few clicks, delivering unmatched performance and scalability.
+  Deploying AI models is straightforward. OpenxAI Studio integrates directly with the Sky-Scanner, enabling provisioning of the ideal bare metal server with minimal user effort. The deployment process is fast, intuitive, and designed for scalability and reliability.
 
-Experience streamlined access to high-performance hardware through our Sky-Scanner, and elevate your AI solution deployment with confidence.
+  The system now supports a broader range of specialized CPUs and GPUs, providing flexibility for diverse AI workloads, including large-scale open-source language models such as LLaMA 2 and Mixtral. Backend optimizations enable faster setup times and more stable deployments.
+
+  Access to high-performance hardware empowers AI solutions to operate efficiently and at scale.
 
