@@ -6,5 +6,7 @@ export default {
   "applicationscases": "Applications and Use Cases",
   "tokenomics-and-economic-design": "Tokenomics and Economic Design",
   "governance-and-community": "Governance and Community",
-  "appendices": "Appendices"
+  "appendices": "Appendices",
+  "web3" : "Web3",
+  "resources" : "Resources"
 } as const;

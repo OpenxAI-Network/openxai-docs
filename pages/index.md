@@ -14,7 +14,7 @@ OpenxAI Network is the first peer-to-peer permissionless AI protocol. What Bitco
 
 Built by core contributors from Fantom, Solana, ICP, Binance, NEAR, and AragonDAO, OpenxAI runs fully on decentralized infrastructure. It cuts GPU costs by up to 80% compared to AWS and Google, while enabling global AI deployment. Think AWS + Hugging Face + Stripe, rebuilt as a trustless Web3 protocol, open to everyone.
 
-![Permisionless & Borderless Openxai](/images/openxai-introduction.jpg)
+![Permisionless & Borderless Openxai](/images/openxai-permissionless-and-borderless.jpg)
 
 ---
 
@@ -67,6 +67,8 @@ It removes intermediaries, makes compute liquid, and transforms intelligence int
 - [Applications and Use Cases](/applicationscases.md)
 
 ### Tokenomics and Economic Design
+- [Overview](s/tokenomics-and-economic-design/overview)
+- [Smart Contracts](/tokenomics-and-economic-design/smart-contracts)
 - [Design Goals](/tokenomics-and-economic-design/design-goals)
 - [Economic Flywheel](/tokenomics-and-economic-design/economic-flywheel)
 - [Incentive Alignment](/tokenomics-and-economic-design/incentive-alignment)
@@ -95,7 +97,6 @@ It removes intermediaries, makes compute liquid, and transforms intelligence int
 - [OPENX Token](/web3/openxai-token)
 - [Token Utility](/web3/token-utility)
 - [Staking System](/web3/staking-system)
-- [Smart Contracts](/web3/smart-contracts)
 - [Treasury](/web3/treasury)
 - [Proposal System](/web3/proposal-system)
 - [Rewards](/web3/rewards)

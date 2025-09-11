@@ -1,6 +1,6 @@
 ## Permissionless AI Architecture
 
-
+![Permissionless AI Architecture](/images/openxai-permissionless-ai-architecture.jpg)
 
 OpenxAI is built on **XnodeOS**, a declarative NixOS-based operating system that turns any hardware or cloud server into a secure, containerized compute node.  
 Each node is managed through the **Xnode Manager API**, authenticated with Ethereum signatures, and connected via a reverse proxy and subdomain distributor, forming a global, permissionless compute fabric.

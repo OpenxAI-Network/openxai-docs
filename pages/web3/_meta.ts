@@ -4,7 +4,6 @@ export default {
   "token-utility": "Token Utility",
   "staking-system": "Staking System",
   "rewards": "Rewards",
-  "smart-contracts": "Smart Contracts",
   "governance": "Governance & Voting",
   "proposal-system": "Proposal System",
   "treasury": "Treasury",
